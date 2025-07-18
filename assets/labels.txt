@@ -1,0 +1,10 @@
+bacteria_leaf_blight
+bacterialeaf_streak
+rice_blast_disease
+rice_brown_spot
+rice_stackburn
+rust
+brownrust
+healthy
+lose_smut
+septoria
