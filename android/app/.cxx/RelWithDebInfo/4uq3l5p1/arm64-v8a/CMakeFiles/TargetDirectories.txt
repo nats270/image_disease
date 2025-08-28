@@ -1,0 +1,2 @@
+/Users/natasha/img_detect/android/app/.cxx/RelWithDebInfo/4uq3l5p1/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/natasha/img_detect/android/app/.cxx/RelWithDebInfo/4uq3l5p1/arm64-v8a/CMakeFiles/rebuild_cache.dir

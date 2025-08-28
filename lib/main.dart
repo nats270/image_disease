@@ -104,7 +104,7 @@ class _ImageClassifierScreenState extends State<ImageClassifierScreen> {
       MaterialApp(
         debugShowCheckedModeBanner: false,
         home: Scaffold(
-        appBar: AppBar(title: const Text('TFLite Image Classifier')),
+        appBar: AppBar(title: const Text('Disease Detection')),
         body: Center(
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
